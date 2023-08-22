@@ -8,6 +8,8 @@ My First Git Repository
 - **pwd**: print the working directory. Show where I am at the moment
 - **mkdir**: create a new directory
 
+![Unix command cheatsheet](Unix_command_cheatsheet.pdf)
+
 - ## Git commands
 
 - **git clone**: download a repository to the local machine
